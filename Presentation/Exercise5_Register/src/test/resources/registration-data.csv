@@ -1,0 +1,4 @@
+firstName,lastName,email,gender,mobile,expected
+John,Doe,john.doe@example.com,Male,1234567890,success
+Jane,Smith,invalid-email,Male,1234567890,error
+,,,Male,,error
